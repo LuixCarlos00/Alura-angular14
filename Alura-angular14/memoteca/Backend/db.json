@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "novoooooo ",
+      "autoria": "r34",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": " Novo pensamento teste ",
+      "autoria": "luiz carlos de oliveira junior ",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": " Certifique-se de que o componente que contém <router-outlet> está no mesmo módulo ou é importado corretamente: Se o componente que contém <router-outlet> está em um módulo separado, verifique se esse módulo está sendo importado corretamente no módulo principal.  Certifique-se de que o componente AppComponent está no mesmo módulo que contém o roteador ou que o módulo que contém o roteador esteja corretamente importado no módulo que contém AppComponent.",
+      "autoria": "Gepeto",
+      "modelo": "modelo3",
+      "id": 5
+    }
+  ]
+}
